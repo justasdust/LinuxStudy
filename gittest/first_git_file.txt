@@ -1,2 +1,3 @@
-first time using git, excited!
-insert one line here!
+Hello, git!
+Change one line here!
+Insert one line here - Tomorrow i have four classes.:(
