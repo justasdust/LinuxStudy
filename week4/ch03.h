@@ -5,3 +5,8 @@
 #include <unistd.h>
 #include <string.h>
 #include <stdlib.h>
+#include <time.h>
+void err_exit(char *s){
+	printf("%s", s);
+	exit(1);
+}
