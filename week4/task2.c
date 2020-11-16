@@ -20,8 +20,8 @@ char* fileRead(FILE* fp, int k){
 int main(){
 	int n;
 	FILE* fp = fopen("task2.txt", "r");
-	char* content = fileRead(fp, 1);
-	printf("content 1 is \"%s\".\n", content);
+	char* content = fileRead(fp, 2);
+	printf("content 2 is \"%s\".\n", content);
 	fclose(fp);
 	free(content);
 
