@@ -1,0 +1,8 @@
+Time: 2020/12/7 20:3:30.958605	Pid: 3559	Message: hello
+Time: 2020/12/7 20:3:33.254338	Pid: 3560	Message: en
+Time: 2020/12/7 20:3:43.5051	Pid: 3559	Message: happy
+Time: 2020/12/7 20:3:58.202169	Pid: 3560	Message: ^_^ oh 
+Time: 2020/12/7 20:4:5.678795	Pid: 3559	Message: so bored
+Time: 2020/12/7 20:4:9.797978	Pid: 3560	Message: so am i
+Time: 2020/12/7 20:4:13.48386	Pid: 3559	Message: 88
+Time: 2020/12/7 20:4:15.497870	Pid: 3560	Message: 88
